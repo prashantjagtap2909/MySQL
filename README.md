@@ -85,5 +85,6 @@ Dev department?
   WHERE Department = 'Dev'
   AND Salary > (SELECT AVG(Salary) FROM emp_data WHERE Department = 'Dev');
 
-25. What is the total salary expenditure in Pune location? SELECT SUM(Salary) AS total_salary_p
+25. What is the total salary expenditure in Pune location?   
+    - SELECT SUM(Salary) AS total_salary_p
 
