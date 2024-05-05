@@ -1,4 +1,4 @@
-![image](https://github.com/prashantjagtap2909/MySQL/assets/93985255/7047bace-2481-425b-8618-4975b22fdfdd)
+![image](https://github.com/prashantjagtap2909/MySQL/assets/93985255/7047bace-2481-425b-8618-4975b22fdfdd) [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FMySQL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
